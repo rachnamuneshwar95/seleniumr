@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/New folder/selenium/selenium-server-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/New folder/webdrivermanager/webdrivermanager-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/New folder/edgedriver/chromedriver/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/New folder/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/selenium/webdrivermanager-5.1.1-fat.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
