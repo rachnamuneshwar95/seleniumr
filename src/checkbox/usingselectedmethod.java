@@ -28,6 +28,6 @@ public class usingselectedmethod {
 		driver.findElement(By.xpath("//*[text()='Admin']")).click();
 		driver.findElement(By.xpath("//*[text()='User Management']")).click();
 	
-		List<WebElement> check = driver.findElements(By.xpath(""));
+		
 }
 }
